@@ -4,5 +4,5 @@ env/
 venv/
 *.sqlite3
 *.log
-*.venv
+.venv
 db.sqlite3
